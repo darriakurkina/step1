@@ -1,1 +1,1 @@
-program
+print("Hello, Darja!")
